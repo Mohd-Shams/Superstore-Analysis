@@ -310,6 +310,3 @@ Images/Business_Summary.png
 
 Aspiring Data Analyst
 
----
-
-## ⭐ If you found this project helpful, consider giving it a Star!
